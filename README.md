@@ -1,3 +1,3 @@
 # Demo 2 on local machine
 
-making repo localy and then uplading that on GitHub
+making repo localy and then uploading that on GitHub
